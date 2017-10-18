@@ -45,6 +45,7 @@ group :development do
   gem 'spring'
 end
 
-
+gem 'simple_form'
 gem 'devise'
-gem "twitter-bootstrap-rails"
+gem 'twitter-bootstrap-rails'
+gem 'font-awesome-rails'
